@@ -45,7 +45,7 @@ harvardSchool();
 
 <p align="center">
   <br/>
-  <a href="donatocorentin2@gmail.com">
+  <a href="mailto:donatocorentin2@gmail.com">
     <img alt="donatocorentin2@gmail.com" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/640px-Gmail_Icon.png"/>
   </a>
   <a href="https://www.linkedin.com/in/corentin-donato-78161b21a/">
