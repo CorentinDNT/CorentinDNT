@@ -8,8 +8,7 @@
 
 ### Pourquoi développeur ?
 
-J'ai toujours été attiré les activitées créatives :paintbrush: j'ai découver le **déveoppement web** pendant le premier confinement et j'ai tout de suite adoré.
-j'avoue je me prenais un peu pour ça au début...
+J'ai toujours été attiré les activités créatives :paintbrush:  j'ai découvert le développement web pendant le premier confinement et j'ai tout de suite adoré. j'avoue je me prenais un peu pour ça au début...
 
 <p align="center">
   <img align="center" width="40%" alt="GIF" src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
