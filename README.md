@@ -1,67 +1,43 @@
-### Bienvenue ```${Visiteur.name}```
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Donato+Corentin!;" />
+</h1>
 
-### Je m'appel corentin Donato. J'habite à Toulouse et je suis développeur web !
+<h3 align="center">A passionate software engineer</h3>
 
-<p align="center">
-  <img align="center" width="80%" alt="GIF" src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif"/>
-</p>
+<br/>
 
-### Pourquoi développeur ?
+<div align="center">
+ 
+ :computer: I’m currently **FullStack developper for <a href="https://lrtechnologies.fr/fr/">LR Technologies</a> and <a href="https://www.santeclair.fr/fr/">@Santéclair</a>**
+ 
+ :chart_with_upwards_trend: In addition to my current skills, i’m learning **Docker, CloudAzure and Kubernetes**
 
-J'ai toujours été attiré les activités créatives :paintbrush:  j'ai découvert le développement web pendant le premier confinement et j'ai tout de suite adoré. j'avoue je me prenais un peu pour ça au début...
-
-<p align="center">
-  <img align="center" width="40%" alt="GIF" src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
-</p>
-
-
-### Mon niveau d'études ?
-```javascript
-const corentin = new Object();
-
-function harvardSchool() {
-  if (corentin.diplomes > 0) {
-    return console.log("Deal with it.");
-  }
-  return console.log("Oh, huh... Hey ! :)");
-}
-
-harvardSchool();
-```
-
-<img align="right" width="55%" alt="" src="https://miro.medium.com/max/1400/1*KcQUEkOQ1LoMDHkMZ-Yymw.jpeg"></img>
-
-*Oh, huh... Hey ! :)*
-
-  - [x] J'adore faire des projets même si ils ne sont pour personne
-  - [x] Passer des heures sur codepen pour faire des animations css...
-  - [x] En apprendre tout les jours et résoudre seul des problèmes
-  - [x] **STACK OVERFLOW**
-  - [x] Savoir effectuer une veille
-  - [ ] Savoir s'arrêter parce que je code depuis des heures
-
-&nbsp;
-
-<p align="center">
-  <br/>
+ </div>
+ 
+<div align="center"> 
   <a href="mailto:donatocorentin2@gmail.com">
-    <img alt="donatocorentin2@gmail.com" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/640px-Gmail_Icon.png"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/corentin-donato-78161b21a/">
-    <img alt="Linkedin Donato corentin" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+  <a href="[https://www.linkedin.com/in/corentindnt/]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
-<!--
-**CorentinDNT/CorentinDNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+ <hr/>
+ 
+<h2 align="center"> Languages / Frameworks </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,nodejs,ts,vue,react" />
+</div>
+<h2 align="center"> Databases / Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,linux,visualstudio,vscode,eclipse,gitlab,git" /><br>
+</div>
+<br/>
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<hr/>
