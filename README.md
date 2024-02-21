@@ -14,14 +14,15 @@
 
  </div>
  
-<div align="center"> 
+<p align="center">
+  <br/>
   <a href="mailto:donatocorentin2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img alt="donatocorentin2@gmail.com" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/640px-Gmail_Icon.png"/>
   </a>
-  <a href="[https://www.linkedin.com/in/corentindnt/]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/corentin-donato-78161b21a/">
+    <img alt="Linkedin Donato corentin" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
   </a>
-</div>
+</p>
 
  <hr/>
  
@@ -36,8 +37,4 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,linux,visualstudio,vscode,eclipse,gitlab,git" /><br>
 </div>
 <br/>
-<hr/>
-
-<br/><br/>
-
 <hr/>
