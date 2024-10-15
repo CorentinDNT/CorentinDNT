@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Donato+Corentin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋+My+name+is+Corentin!;+Welcome+to+my+github" />
 </h1>
 
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate independant web developper</h3>
 
 <br/>
 
 <div align="center">
  
- :computer: I’m currently **FullStack developper for <a href="https://lrtechnologies.fr/fr/">LR Technologies</a> and <a href="https://www.santeclair.fr/fr/">@Santéclair</a>**
+ :computer: I’m currently **indendant FullStack developper for i've worked for <a href="https://www.linkedin.com/company/ywz-consult/?originalSubdomain=fr">YWZ-Consult</a>, <a href="https://lrtechnologies.fr/fr/">LR Technologies</a> and <a href="https://www.santeclair.fr/fr/">Santéclair</a>**
  
  :chart_with_upwards_trend: In addition to my current skills, i’m learning **Docker, CloudAzure and Kubernetes**
 
